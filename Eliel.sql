@@ -1,6 +1,10 @@
-SELECT * FROM "Customers" LIMIT 0, 10;  /* Question 1 */
+ /* Question 1 */
 
-SELECT * FROM Products ORDER BY UnitsOnOrder DESC LIMIT 0,17;  /* Question 2 */
+SELECT * FROM "Customers" LIMIT 0, 10; 
+
+/* Question 2 */
+
+SELECT * FROM Products ORDER BY UnitsOnOrder DESC LIMIT 0,17;  
 
 /* Question 3 */
 
